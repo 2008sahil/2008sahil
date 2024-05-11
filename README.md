@@ -37,7 +37,7 @@ I'm passionate about problem-solving and utilizing technology to solve real-worl
 
 - GitHub: [@2008sahil](https://github.com/2008sahil)
 - LinkedIn: [Sahil Gupta](https://www.linkedin.com/in/sahil-gupta-b85122228/)
-- Email: shootersahil20@example.com
+- Email: sahilgupta.internship@gmail.com
 
 Feel free to reach out if you have any questions, collaboration ideas, or just want to connect!
 
