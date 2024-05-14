@@ -1,6 +1,5 @@
 
 
-
 # Hello, I'm Sahil Gupta! 👋
 
 I'm passionate about problem-solving and utilizing technology to solve real-world problems. Currently, I'm on a journey to master various aspects of software development, with a focus on web development, data structures and algorithms (DSA), and DevOps.
